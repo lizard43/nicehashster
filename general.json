@@ -1,0 +1,90 @@
+{
+	"ConfigFileVersion": {
+		"Major": 2,
+		"Minor": 0,
+		"Build": 1,
+		"Revision": 11
+	},
+	"VersionString": "2.0.1.11",
+	"Language": 0,
+	"DisplayCurrency": "USD",
+	"DebugConsole": true,
+	"LoginType": 2,
+	"BitcoinAddress": "XXXXXXLkYUWhTr2GTYsrxJr6njfaoRhuwJL",
+	"NicehashEmail": "",
+	"WorkerName": "NHM2",
+	"ServiceLocation": 1,
+	"AutomaticServiceLocation": true,
+	"AutoStartMining": false,
+	"HideMiningWindows": false,
+	"MinimizeToTray": false,
+	"SwitchProfitabilityThreshold": 0.03,
+	"MinerAPIQueryInterval": 5,
+	"MinerRestartDelayMS": 500,
+	"DisableDetectionCPU": false,
+	"DisableDetectionAMD": true,
+	"DisableDetectionNVIDIA": false,
+	"SpeedAverageType": 1,
+	"StartMiningWhenIdle": false,
+	"MinIdleSeconds": 60,
+	"LogToFile": true,
+	"LogMaxFileSize": 1048576,
+	"NVIDIAP0State": true,
+	"EnableFanControl": true,
+	"ApiBindPortPoolStart": 5100,
+	"MinimumProfit": 0,
+	"Use3rdPartyMiners": 0,
+	"ExcavatorExtraStartupParameters": "-wp 8080 -wi 0.0.0.0",
+	"ExcavatorNVIDIAStatsQuery": true,
+	"ExcavatorAMDStatsQuery": false,
+	"ExcavatorIgnoreAMD": false,
+	"IgnoreStartupWarnings": false,
+	"LastDevicesSettup": [
+		{
+			"Name": "Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz",
+			"Enabled": true,
+			"UUID": "GEN-256509b18f3523b08583ab31658a1e42e9d51d41432c14dadade755926c27918"
+		},
+		{
+			"Name": "EVGA GeForce GTX 1080 Ti",
+			"Enabled": true,
+			"UUID": "GPU-b2c99276-102b-4a85-7512-b4f5be1d20a2"
+		},
+		{
+			"Name": "MSI GeForce GTX 1070 Ti",
+			"Enabled": true,
+			"UUID": "GPU-38d67249-f09c-cad9-6a17-5cb4549fa96f"
+		},
+		{
+			"Name": "GeForce GTX 1050 Ti",
+			"Enabled": true,
+			"UUID": "GPU-7fc6db51-1db5-f9c4-cc6d-701e9f4d1015"
+		},
+		{
+			"Name": "MSI GeForce GTX 1050",
+			"Enabled": true,
+			"UUID": "GPU-a7412774-940a-04fd-8ced-df83952f38db"
+		},
+		{
+			"Name": "MSI GeForce GTX 1080 Ti",
+			"Enabled": true,
+			"UUID": "GPU-1c9d5c75-cf2d-4123-4b48-95e100d570fc"
+		}
+	],
+	"IgnoredWarnings": [],
+	"SwitchSMATimeCheckRangeSeconds": [
+		34,
+		55
+	],
+	"SwitchSMAStableTicksRangeCount": [
+		2,
+		3
+	],
+	"SwitchSMAUnstableTicksRangeCount": [
+		5,
+		13
+	],
+	"hwid": "0a613114e583758a079893cea3144cc094ad864a350b8a785cbf98c6a61c24cb",
+	"agreedWithTOS": 3,
+	"riskAcknowledgementAgreedWithTOS": 3
+}
