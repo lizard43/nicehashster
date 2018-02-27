@@ -2,7 +2,7 @@
 Monitor NiceHash Excavator and display stats on rig OLED
 
 # General JSON
-This is a few of the chnages that I makes the the NHM2 general config file that is located in:
+This is a few of the changes that I make to the NHM2 general config file that is located in:
 
 C:\Users\youruser\AppData\Roaming\nhm2\configs
 
